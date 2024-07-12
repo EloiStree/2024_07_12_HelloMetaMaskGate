@@ -36,3 +36,4 @@ https://dashboard.privy.io/team
 - https://chainlist.org/chain/1
 - https://chainlist.org/chain/137
 - https://metamask.io/sdk/
+- https://docs.metamask.io/wallet/how-to/use-sdk
