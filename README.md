@@ -31,6 +31,8 @@ https://walletconnect.com/walletkit
 https://dashboard.privy.io/team
 
 
+Pure javascript: https://docs.metamask.io/wallet/how-to/use-sdk/javascript/pure-js
+
 
 - https://metamask.io
 - https://chainlist.org/chain/1
