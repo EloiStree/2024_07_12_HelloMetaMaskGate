@@ -41,3 +41,8 @@ P-256 NFC wristbands
 - https://chainlist.org/chain/137
 - https://metamask.io/sdk/
 - https://docs.metamask.io/wallet/how-to/use-sdk
+
+https://ethereumfilm.xyz
+https://github.com/MetaMask/snaps/discussions/2471
+
+https://ethereumfilm.xyz
