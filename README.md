@@ -34,6 +34,8 @@ https://dashboard.privy.io/team
 Pure javascript: https://docs.metamask.io/wallet/how-to/use-sdk/javascript/pure-js
 
 
+
+P-256 NFC wristbands
 - https://metamask.io
 - https://chainlist.org/chain/1
 - https://chainlist.org/chain/137
