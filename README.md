@@ -8,3 +8,7 @@ Note on what I could work on during the hackathon
   - https://docs.tlsnotary.org/
     - Oracle Problem: https://youtu.be/ZJfkNzyO7-U
   - Rust
+
+
+  
+ 
