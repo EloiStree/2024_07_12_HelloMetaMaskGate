@@ -35,3 +35,4 @@ https://dashboard.privy.io/team
 - https://metamask.io
 - https://chainlist.org/chain/1
 - https://chainlist.org/chain/137
+- https://metamask.io/sdk/
