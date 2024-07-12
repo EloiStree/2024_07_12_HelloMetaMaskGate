@@ -19,3 +19,8 @@ Note on what I could work on during the hackathon
 
 - Auth 3 
 
+
+
+
+[nfc tag nt424dna](https://www.shopnfc.com/fr/etiquettes-nfc/313-588-tags-nfc-ntag424-dna-29mm-adhesifs.html)
+La nouvelle puce NTAG élève le standard de sécurité des tags NFC grâce au cryptage AES-128 et à la génération de messages SUN (Secure Unique NFC).
