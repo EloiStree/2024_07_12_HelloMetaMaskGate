@@ -11,4 +11,8 @@ Note on what I could work on during the hackathon
 
 
   
- 
+
+
+- https://ethglobal.com/events/hackfevm/prizes
+  - https://filecoin.io/
+  - https://moralis.io/how-to-use-filecoin-in-unity-for-storage/
